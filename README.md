@@ -1,6 +1,8 @@
 ### 👋 Hi there! I'm Saif Ahmad Farooqui
  
 ## 👨🏻‍ &nbsp;About Me
+[![Linkedin Badge](https://img.shields.io/badge/-saifahmadf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saifahmadfarooqui/)](https://www.linkedin.com/in/saifahmadfarooqui/)
+[![Gmail Badge](https://img.shields.io/badge/-saif.ahfarooqui@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saif.ahfarooqui@gmail.com)](mailto:saif.ahfarooqui@gmail.com)
 
 🎓 I'm a Computer Science Engineer with more than 2 years of experience as a Software Developer.\
 💻 Currently I am working at WhiteHatJr as Software Engineer - Backend.
@@ -9,10 +11,6 @@
 🌱 I'm on track for learning more about Systems Design and Cloud Architecture.\
  
 
-Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-saifahmadf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saifahmadfarooqui/)](https://www.linkedin.com/in/saifahmadfarooqui/)
-[![Gmail Badge](https://img.shields.io/badge/-saif.ahfarooqui@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saif.ahfarooqui@gmail.com)](mailto:saif.ahfarooqui@gmail.com)
 
 ## ⚡ Technologies
 
