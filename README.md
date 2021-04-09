@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hi there! I'm Saif Ahmad Farooqui
+ 
+## 👨🏻‍ &nbsp;About Me
+
+🎓 I'm a Computer Science Engineer with more than 2 years of experience as a Software Developer.\
+💻 Currently I am working at WhiteHatJr as Software Engineer - Backend.
+📄 My key responsibility is to design, build and maintain the server-side of web applications.
+💡 I like to explore on data structure, algorithms and how can we improve the performance of the existing system.\ 
+🌱 I'm on track for learning more about Systems Design and Cloud Architecture.\
+ 
 
 Find out more about me & feel free to connect with me here:
 
