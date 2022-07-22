@@ -11,10 +11,12 @@
 
 ### 🛠 Technologies
 
+![Go](https://img.shields.io/badge/go-white.svg?style=flat-square&logo=go&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-white?style=flat-square&logo=apachekafka&logoColor=007ACC)
 ![Redis](https://img.shields.io/badge/-Redis-white?style=flat-square&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
