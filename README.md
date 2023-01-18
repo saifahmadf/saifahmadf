@@ -2,7 +2,7 @@
  
 ### 👨🏻‍ &nbsp;About Me
 
-🎓 &nbsp;I'm a Computer Science Engineer with more than 3 years of experience as a Software Engineer.\
+🎓 &nbsp;I'm a Computer Science Engineer with more than 4 years of experience as a Software Engineer.\
 💻 &nbsp;Currently I am working at Shiprocket as Senior Software Engineer - Backend.\
 📄 &nbsp;My key responsibility is to design, build and maintain the server-side of web applications.\
 💡 &nbsp;I like to explore on data structure, algorithms and how can we improve the performance of the existing system.\
